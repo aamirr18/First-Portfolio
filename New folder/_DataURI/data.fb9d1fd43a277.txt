@@ -1,1 +1,0 @@
-chrome-extension://gdgnlfdenkmjcfgjpnookbglpndleahm/js/plugins/draggabilly.js
